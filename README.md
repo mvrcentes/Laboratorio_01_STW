@@ -294,3 +294,8 @@ Status of this Memo
    not specify an Internet standard of any kind.  Distribution of this
    memo is unlimited.
 
+* path TCP
+
++----------+     +---------+     +-------+     +-------+     +-------+
+| telehack | --> | veritas | --> | uunet | --> | atina | --> | ecord |
++----------+     +---------+     +-------+     +-------+     +-------+
