@@ -19,4 +19,19 @@ no es mi nombre pero si es mi Nickname
 Hello World!
 
 
+* Cómo pide ayuda una vaca 
+
+_______ 
+< help? >
+ ------- 
+        \   ^__^
+         \  (@@)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+@
+
+
+
+
 
