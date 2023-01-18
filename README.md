@@ -56,6 +56,11 @@ WHAT IS MORE IMPORTANT, BEING A GOOD PHILOSOPHER OR BEING A GOOD DANCER?
 
 
 
+*fnord
+
+The pistol from Toledo will go to headquarters.
+
+
 
 
 
