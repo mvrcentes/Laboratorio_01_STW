@@ -32,6 +32,30 @@ _______
 @
 
 
+* what is life?
+[eliza                          converse with an AI psychotherapist
+
+
+HELLO, I AM ELIZA.
+
+hello
+
+HI. WHAT SEEMS TO BE YOUR PROBLEM?
+
+what is life?
+
+WHY ARE YOU TALKING TO ME ABOUT THAT?
+
+understand the menaing of life
+
+PLEASE EXPRESS THAT IN A BIT MORE DETAIL.
+
+whta is life?
+
+WHAT IS MORE IMPORTANT, BEING A GOOD PHILOSOPHER OR BEING A GOOD DANCER?
+
+
+
 
 
 
