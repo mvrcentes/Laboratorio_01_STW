@@ -93,6 +93,11 @@ bkj386	moore(DIRECT+HIGH), bkjlap(DEMAND),
 	psican(DEMAND), xbrix(DIRECT+LOW)
 
 
+* morse
+
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
+
 
 
 
